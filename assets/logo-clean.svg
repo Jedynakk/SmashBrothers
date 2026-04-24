@@ -1,15 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
   <title>Smash Brothers</title>
   <circle cx="110" cy="110" r="108" fill="#000"/>
-  <circle cx="110" cy="110" r="96" fill="none" stroke="#fff" stroke-width="4"/>
-  <text x="44" y="102" fill="#fff" font-size="44" font-family="Georgia, 'Times New Roman', serif" letter-spacing="1">SMA</text>
-  <text x="142" y="102" fill="#fff" font-size="44" font-family="Georgia, 'Times New Roman', serif" letter-spacing="1">H</text>
-  <text x="38" y="144" fill="#fff" font-size="28" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">brothers</text>
-  <g fill="none" stroke="#d93a3a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M95 74c5-8 15-12 25-12s20 4 25 12"/>
-    <path d="M96 111h48"/>
-    <path d="M100 89c0-6 5-11 10-11h20c5 0 10 5 10 11 0 6-5 11-10 11h-20c-5 0-10-5-10-11Z"/>
-    <path d="M100 111c2 10 11 17 22 17s20-7 22-17"/>
-    <path d="M106 99c2 4 5 6 8 6s6-2 8-6c2 4 5 6 8 6s6-2 8-6"/>
+  <circle cx="110" cy="110" r="104" fill="none" stroke="#fff" stroke-width="5"/>
+  <g transform="translate(110 110) scale(1.58) translate(-110 -110)">
+    <text x="44" y="102" fill="#fff" font-size="44" font-family="Georgia, 'Times New Roman', serif" letter-spacing="1">SMA</text>
+    <text x="142" y="102" fill="#fff" font-size="44" font-family="Georgia, 'Times New Roman', serif" letter-spacing="1">H</text>
+    <text x="38" y="144" fill="#fff" font-size="28" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">brothers</text>
+    <g fill="none" stroke="#d93a3a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M95 74c5-8 15-12 25-12s20 4 25 12"/>
+      <path d="M96 111h48"/>
+      <path d="M100 89c0-6 5-11 10-11h20c5 0 10 5 10 11 0 6-5 11-10 11h-20c-5 0-10-5-10-11Z"/>
+      <path d="M100 111c2 10 11 17 22 17s20-7 22-17"/>
+      <path d="M106 99c2 4 5 6 8 6s6-2 8-6c2 4 5 6 8 6s6-2 8-6"/>
+    </g>
   </g>
 </svg>
