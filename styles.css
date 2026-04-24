@@ -316,6 +316,11 @@ svg {
   gap: 12px;
 }
 
+.delivery-platforms a {
+  display: inline-flex;
+  border-radius: 16px;
+}
+
 .delivery-platforms img {
   width: 58px;
   height: 58px;
